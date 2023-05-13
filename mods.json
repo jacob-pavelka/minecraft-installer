@@ -1,0 +1,873 @@
+{   
+    "datapacks":[        
+        {
+            "name": "Repurposed Structures - Better Dungeons Compat Datapack",
+            "url":"https://www.curseforge.com/api/v1/mods/554329/files/4031599/download",
+            "type":"datapack",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Integrated Stronghold- Dungeon's Mobs Integration",
+            "url":"https://www.curseforge.com/api/v1/mods/832114/files/4414163/download",
+            "type":"datapack",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "ChoiceTheorem's Overhauled Village - More villagers compatibility pack",
+            "url":"https://www.curseforge.com/api/v1/mods/648065/files/3955495/download",
+            "type":"datapack",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "ChoiceTheorem's Overhauled Village - Waystone Compatibility pack",
+            "url":"https://www.curseforge.com/api/v1/mods/711916/files/4112745/download",
+            "type":"datapack",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "ChoiceTheorem's Overhauled Village Bountiful compatibility pack",
+            "url":"https://www.curseforge.com/api/v1/mods/834277/files/4422609/download",
+            "type":"datapack",
+            "server":true,
+            "client":true
+        }
+    ],
+    "resourcepacks":[],
+    "mods": [
+        {
+            "name": "forge",
+            "type":"loader",
+            "url":"https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-installer.jar",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Storage Drawers",
+            "url":"https://www.curseforge.com/api/v1/mods/223852/files/3884263/download",
+            "type":"Storage",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Tinkers Construct",
+            "url":"https://www.curseforge.com/api/v1/mods/74072/files/4509008/download",
+            "type":"Equipment",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Chameleon",
+            "url":"https://www.curseforge.com/api/v1/mods/230497/files/2450900/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Mantle",
+            "url":"https://www.curseforge.com/api/v1/mods/74924/files/4509007/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Create",
+            "url":"https://www.curseforge.com/api/v1/mods/328085/files/4371809/download",
+            "type":"Automation",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Flywheel",
+            "url":"https://www.curseforge.com/api/v1/mods/486392/files/4341471/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Create Stuff",
+            "url":"https://www.curseforge.com/api/v1/mods/466792/files/3615933/download",
+            "type":"Automation",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Multi-Piston",
+            "url":"https://www.curseforge.com/api/v1/mods/303278/files/4372610/download",
+            "type":"Redstone",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Patchoulli",
+            "url":"https://www.curseforge.com/api/v1/mods/306770/files/4391051/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Curios",
+            "url":"https://www.curseforge.com/api/v1/mods/309927/files/4510371/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Botania",
+            "url":"https://www.curseforge.com/api/v1/mods/225643/files/4415871/download",
+            "type":"Magic",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Buddycards",
+            "url":"https://www.curseforge.com/api/v1/mods/425991/files/3911357/download",
+            "type":"Collectibles",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Buddycards Expansion",
+            "url":"https://www.curseforge.com/api/v1/mods/568127/files/3991232/download",
+            "type":"Collectibles",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Echoing Expanse",
+            "url":"https://www.curseforge.com/api/v1/mods/820965/files/4504702/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Difficult Caves",
+            "url":"https://www.curseforge.com/api/v1/mods/822831/files/4384949/download",
+            "type":"Mobs",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Enders Cataclysm",
+            "url":"https://www.curseforge.com/api/v1/mods/551586/files/4517108/download",
+            "type":"Mobs",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Enlightend",
+            "url":"https://www.curseforge.com/api/v1/mods/502786/files/4481773/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "TerraBlender",
+            "url":"https://www.curseforge.com/api/v1/mods/563928/files/4441770/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Magical Forest",
+            "url":"https://www.curseforge.com/api/v1/mods/383666/files/3907494/download",
+            "type":"",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Biome Makeover",
+            "url":"https://www.curseforge.com/api/v1/mods/567709/files/4467793/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Architectury API",
+            "url":"https://www.curseforge.com/api/v1/mods/419699/files/4515594/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "The Twilight Forest",
+            "url":"https://www.curseforge.com/api/v1/mods/227639/files/4419066/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Upstream",
+            "url":"https://www.curseforge.com/api/v1/mods/428483/files/3139159/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Yungs Bridges",
+            "url":"https://www.curseforge.com/api/v1/mods/536660/files/4454298/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Serene Seasons",
+            "url":"https://www.curseforge.com/api/v1/mods/291874/files/4442006/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "amplified nether",
+            "url":"https://www.curseforge.com/api/v1/mods/552176/files/4441299/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "yungs nether fortresses",
+            "url":"https://www.curseforge.com/api/v1/mods/817651/files/4454284/download",
+            "type":"",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Terralith",
+            "url":"https://www.curseforge.com/api/v1/mods/513688/files/4441466/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Infernal Expansion",
+            "url":"https://www.curseforge.com/api/v1/mods/395078/files/4002091/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Geckolib",
+            "url":"https://www.curseforge.com/api/v1/mods/388172/files/4477811/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Apocalyptic Fortress",
+            "url":"https://www.curseforge.com/api/v1/mods/700741/files/4342547/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Yungs Extras",
+            "url":"https://www.curseforge.com/api/v1/mods/480006/files/4454292/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Citadel",
+            "url":"https://www.curseforge.com/api/v1/mods/331936/files/4473245/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Crackers Witherstorm",
+            "url":"https://www.curseforge.com/api/v1/mods/621405/files/4468077/download",
+            "type":"Mobs",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Enhanced Boss Bars",
+            "url":"https://www.curseforge.com/api/v1/mods/580036/files/4507467/download",
+            "type":"Resource",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "YUNGs Better Desert Temples",
+            "url":"https://www.curseforge.com/api/v1/mods/631016/files/4454278/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Meet Your Fight",
+            "url":"https://www.curseforge.com/api/v1/mods/409371/files/4505821/download",
+            "type":"Mobs",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Mowzie's Mobs",
+            "url":"https://www.curseforge.com/api/v1/mods/250498/files/4142172/download",
+            "type":"Mobs",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "YUNG's Better Ocean Monuments",
+            "url":"https://www.curseforge.com/api/v1/mods/689238/files/4454281/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Bygone Nether",
+            "url":"https://www.curseforge.com/api/v1/mods/817651/files/4454284/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "It takes a pillage",
+            "url":"https://www.curseforge.com/api/v1/mods/635843/files/4388334/download",
+            "type":"Village",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Integrated Dungeons and Structures",
+            "url":"https://www.curseforge.com/api/v1/mods/605375/files/4480974/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Yungs better dungeons",
+            "url":"https://www.curseforge.com/api/v1/mods/510089/files/4420641/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Integrated Stronghold",
+            "url":"https://www.curseforge.com/api/v1/mods/815548/files/4434724/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "repurposed structures",
+            "url":"https://www.curseforge.com/api/v1/mods/368293/files/4511396/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Integrated API",
+            "url":"https://www.curseforge.com/api/v1/mods/817709/files/4446914/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Supplementaries",
+            "url":"https://www.curseforge.com/api/v1/mods/412082/files/4515558/download",
+            "type":"decor",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Moonlight Lib",
+            "url":"https://www.curseforge.com/api/v1/mods/499980/files/4491268/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Quark",
+            "url":"https://www.curseforge.com/api/v1/mods/243121/files/4480516/download",
+            "type":"Mechanics",
+            "server":true,
+            "client":true
+        },
+
+        {
+            "name": "YUNGs Better Mineshafts",
+            "url":"https://www.curseforge.com/api/v1/mods/389665/files/4420614/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Darker Depths",
+            "url":"https://www.curseforge.com/api/v1/mods/460681/files/4393843/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Towns and Towers",
+            "url":"https://www.curseforge.com/api/v1/mods/626761/files/4357796/download",
+            "type":"Village",
+            "server":true,
+            "client":true
+        },
+
+        {
+            "name": "ChoiceTheorem's Overhauled Village",
+            "url":"https://www.curseforge.com/api/v1/mods/623908/files/4515370/download",
+            "type":"Village",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Bountiful",
+            "url":"https://www.curseforge.com/api/v1/mods/309516/files/3239647/download",
+            "type":"Village",
+            "server":true,
+            "client":true
+        },
+
+        {
+            "name": "female villagers",
+            "url":"https://www.curseforge.com/api/v1/mods/823482/files/4508831/download",
+            "type":"Village",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "MineColonies",
+            "url":"https://www.curseforge.com/api/v1/mods/245506/files/4483050/download",
+            "type":"Village",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Structurize",
+            "url":"https://www.curseforge.com/api/v1/mods/298744/files/3788559/download",
+            "type":"Village",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "BlockUI",
+            "url":"https://www.curseforge.com/api/v1/mods/522992/files/4014930/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Domum Ornamentum",
+            "url":"https://www.curseforge.com/api/v1/mods/527361/files/4174257/download",
+            "type":"decor",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "More Villagers",
+            "url":"https://www.curseforge.com/api/v1/mods/484954/files/3891765/download",
+            "type":"Village",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Guard Villagers",
+            "url":"https://www.curseforge.com/api/v1/mods/360203/files/4441740/download",
+            "type":"Village",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Villager Names",
+            "url":"https://www.curseforge.com/api/v1/mods/345854/files/4438989/download",
+            "type":"Village",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Edibles",
+            "url":"https://www.curseforge.com/api/v1/mods/374240/files/4439291/download",
+            "type":"Food",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Collective",
+            "url":"https://www.curseforge.com/api/v1/mods/342584/files/4438887/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "kelp fertilizer",
+            "url":"https://www.curseforge.com/api/v1/mods/367598/files/4439171/download",
+            "type":"Food",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Aquaculture 2",
+            "url":"https://www.curseforge.com/api/v1/mods/60028/files/4501727/download",
+            "type":"Food",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Tough As Nails",
+            "url":"https://www.curseforge.com/api/v1/mods/246391/files/4442103/download",
+            "type":"Food",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "witch mobility",
+            "url":"https://www.curseforge.com/api/v1/mods/782330/files/4429960/download",
+            "type":"Equipment",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "mideval siege machines",
+            "url":"https://www.curseforge.com/api/v1/mods/585964/files/4424559/download",
+            "type":"Equipment",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "comforts",
+            "url":"https://www.curseforge.com/api/v1/mods/276951/files/4498940/download",
+            "type":"Equipment",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Upgraded Netherite",
+            "url":"https://www.curseforge.com/api/v1/mods/400085/files/4496094/download",
+            "type":"Equipment",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Useful Hats",
+            "url":"https://www.curseforge.com/api/v1/mods/347337/files/4458011/download",
+            "type":"Equipment",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "mutant more",
+            "url":"https://www.curseforge.com/api/v1/mods/831753/files/4447467/download",
+            "type":"Mobs",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "fantasia rpg slimes",
+            "url":"https://www.curseforge.com/api/v1/mods/829822/files/4504132/download",
+            "type":"Mobs",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "sapience",
+            "url":"https://www.curseforge.com/api/v1/mods/426097/files/4503098/download",
+            "type":"Mobs",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "blur",
+            "url":"https://www.curseforge.com/api/v1/mods/268324/files/3271923/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "appleskin",
+            "url":"https://www.curseforge.com/api/v1/mods/248787/files/4440123/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "betteradvancements",
+            "url":"https://www.curseforge.com/api/v1/mods/272515/files/3940452/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "catalogue",
+            "url":"https://www.curseforge.com/api/v1/mods/459701/files/4496718/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "clickable advancements",
+            "url":"https://www.curseforge.com/api/v1/mods/511733/files/4512732/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "configured",
+            "url":"https://www.curseforge.com/api/v1/mods/457570/files/4462894/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "controlling",
+            "url":"https://www.curseforge.com/api/v1/mods/250398/files/4448593/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Detailed Armor Bar",
+            "url":"https://www.curseforge.com/api/v1/mods/520755/files/3920487/download",
+            "type":"uiux",
+            "server":false,
+            "client":true
+        },
+        {
+            "name": "drawers tooltip",
+            "url":"https://www.curseforge.com/api/v1/mods/381605/files/4501675/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Item Highlighter",
+            "url":"https://www.curseforge.com/api/v1/mods/521590/files/4501019/download",
+            "type":"uiux",
+            "server":false,
+            "client":true
+        },
+        {
+            "name": "Iceberg",
+            "url":"https://www.curseforge.com/api/v1/mods/520110/files/4499845/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Legendary Tooltips",
+            "url":"https://www.curseforge.com/api/v1/mods/532127/files/4499615/download",
+            "type":"uiux",
+            "server":false,
+            "client":true
+        },
+        {
+            "name": "Mouse Tweaks",
+            "url":"https://www.curseforge.com/api/v1/mods/60089/files/4440210/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Polymorph",
+            "url":"https://www.curseforge.com/api/v1/mods/388800/files/4119087/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Stylish Effects",
+            "url":"https://www.curseforge.com/api/v1/mods/543661/files/4462746/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Jade",
+            "url":"https://www.curseforge.com/api/v1/mods/324717/files/4439089/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Jade Addons (Forge)",
+            "url":"https://www.curseforge.com/api/v1/mods/583345/files/4375915/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Xaeros Minimap",
+            "url":"https://www.curseforge.com/api/v1/mods/263420/files/4492937/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Xaeros World Map",
+            "url":"https://www.curseforge.com/api/v1/mods/317780/files/4492963/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Ars Nouveau",
+            "url":"https://www.curseforge.com/api/v1/mods/401955/files/4477656/download",
+            "type":"Magic",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "cluttered",
+            "url":"https://www.curseforge.com/api/v1/mods/826308/files/4500647/download",
+            "type":"decor",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "dark paintings",
+            "url":"https://www.curseforge.com/api/v1/mods/377281/files/4445276/download",
+            "type":"decor",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "respawn obelisk",
+            "url":"https://www.curseforge.com/api/v1/mods/824852/files/4409135/download",
+            "type":"Mechanics",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Enhanced Celestials",
+            "url":"https://www.curseforge.com/api/v1/mods/438447/files/4392661/download",
+            "type":"Mechanics",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Unforgiving Void",
+            "url":"https://www.curseforge.com/api/v1/mods/274863/files/3722969/download",
+            "type":"Mechanics",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Healing Campfire",
+            "url":"https://www.curseforge.com/api/v1/mods/342623/files/4439208/download",
+            "type":"Mechanics",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Regrowth",
+            "url":"https://www.curseforge.com/api/v1/mods/381597/files/4516149/download",
+            "type":"Mechanics",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Spice of Life Carrot Edition",
+            "url":"https://www.curseforge.com/api/v1/mods/277616/files/3974155/download",
+            "type":"Mechanics",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Morpheus",
+            "url":"https://www.curseforge.com/api/v1/mods/69118/files/3215383/download",
+            "type":"Mechanics",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "vulcan",
+            "url":"https://www.curseforge.com/api/v1/mods/635429/files/4453389/download",
+            "type":"Performance",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "FastFurnace",
+            "url":"https://www.curseforge.com/api/v1/mods/299540/files/4028348/download",
+            "type":"Performance",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "FastWorkbench",
+            "url":"https://www.curseforge.com/api/v1/mods/288885/files/4508990/download",
+            "type":"Performance",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "FastSuite",
+            "url":"https://www.curseforge.com/api/v1/mods/475117/files/4485308/download",
+            "type":"Performance",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "FerriteCore",
+            "url":"https://www.curseforge.com/api/v1/mods/429235/files/4441949/download",
+            "type":"Performance",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Lazy DataFixerUpper",
+            "url":"https://www.curseforge.com/api/v1/mods/460819/files/4327266/download",
+            "type":"Performance",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Adaptive Performance Tweaks",
+            "url":"https://www.curseforge.com/api/v1/mods/450269/files/4521967/download",
+            "type":"Performance",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Clumps",
+            "url":"https://www.curseforge.com/api/v1/mods/256717/files/4444794/download",
+            "type":"Performance",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "BetterFps",
+            "url":"https://www.curseforge.com/api/v1/mods/229876/files/2429881/download",
+            "type":"Performance",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "AutoRegLib",
+            "url":"https://www.curseforge.com/api/v1/mods/250363/files/4100299/download",
+            "type":"Library",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "akashic tome",
+            "url":"https://www.curseforge.com/api/v1/mods/250577/files/4361115/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Enchantment Descriptions",
+            "url":"https://www.curseforge.com/api/v1/mods/250419/files/4445054/download",
+            "type":"Biome",
+            "server":true,
+            "client":true
+        },
+        {
+            "name": "Just Enough Items",
+            "url":"https://www.curseforge.com/api/v1/mods/238222/files/4060770/download",
+            "type":"uiux",
+            "server":true,
+            "client":true
+        }
+
+        
+    ]
+}
