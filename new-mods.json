@@ -25,7 +25,52 @@
     }
   ],
   "mods": [
-
+    
+    {
+      "19.2": {
+        "url": "https://www.curseforge.com/api/v1/mods/561087/files/4521936/download"
+      },
+      "type": "Performance",
+      "server": true,
+      "name": "APT Core",
+      "client": true
+    },
+    {
+      "19.2": {
+        "url": "https://www.curseforge.com/api/v1/mods/561137/files/4521937/download"
+      },
+      "type": "Performance",
+      "server": true,
+      "name": "APT gamerules",
+      "client": true
+    },
+    {
+      "19.2": {
+        "url": "https://www.curseforge.com/api/v1/mods/561439/files/4521938/download"
+      },
+      "type": "Performance",
+      "server": true,
+      "name": "APT items",
+      "client": true
+    },
+    {
+      "19.2": {
+        "url": "https://www.curseforge.com/api/v1/mods/563963/files/4521941/download"
+      },
+      "type": "Performance",
+      "server": true,
+      "name": "APT login",
+      "client": true
+    },
+    {
+      "19.2": {
+        "url": "https://www.curseforge.com/api/v1/mods/573708/files/4521940/download"
+      },
+      "type": "Performance",
+      "server": true,
+      "name": "APT spawn",
+      "client": true
+    },
     {
       "19.2": {
         "url": "https://www.curseforge.com/api/v1/mods/223852/files/3884263/download"
